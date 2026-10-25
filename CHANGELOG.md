@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/Olensys/terraform-aws-static-site/compare/v1.0.3...v1.0.4) (2026-10-25)
+
+
+### Bug Fixes
+
+* **examples:** provision the certificate in us-east-1 and validate through Cloudflare ([#4](https://github.com/Olensys/terraform-aws-static-site/issues/4)) ([835ef9c](https://github.com/Olensys/terraform-aws-static-site/commit/835ef9cf281292e1564bed69ee7474764328e792))
+
 ## [1.0.3](https://github.com/Olensys/terraform-aws-static-site/compare/v1.0.2...v1.0.3) (2026-10-24)
 
 
